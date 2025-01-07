@@ -66,6 +66,7 @@ const SidebarMenu = () => {
                         transition: "width 0.3s",
                     },
                 }}
+
             >
                 <Box sx={{ display: "flex", alignItems: "center", justifyContent: "space-between", p: 2 }}>
                     {open && <img src="/assets/s4e.png" alt="s4eLogo" style={{ height: 40 }} />}
