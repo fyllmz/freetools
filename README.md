@@ -1,6 +1,6 @@
 ### Çalışmaya başlarken local proxy çalıştırılmalı.
-#Termilnalde, 
-###node proxy.js 
+# Termilnalde, 
+### `node proxy.js`
 
 
 # Getting Started with Create React App
