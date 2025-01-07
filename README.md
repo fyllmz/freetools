@@ -1,5 +1,5 @@
 ### Çalışmaya başlarken local proxy çalıştırılmalı.
-# Termilnalde, 
+# Terminalde, 
 ### `node proxy.js`
 
 
